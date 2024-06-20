@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "user_id": "0123",
+      "password": "0123",
+      "Name": "Abu Taleb",
+      "Address": "Norshingdi",
+      "role_type": "Farmers"
+    },
+    {
+      "user_id": "0124",
+      "password": "0123",
+      "Name": "Abu Bakkar",
+      "Address": "Norshingdi",
+      "role_type": "Investors"
+    }
+  ],
+  "admin": [
+    {
+      "admin_id": "111",
+      "password": "111",
+      "Name": "Sunny",
+      "Address": "Tangail"
+    },
+    {
+      "admin_id": "112",
+      "password": "112",
+      "Name": "Shibbir",
+      "Address": "Gajipur"
+    }
+  ]
+}
