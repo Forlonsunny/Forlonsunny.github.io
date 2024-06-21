@@ -3,15 +3,29 @@
     {
       "user_id": "0123",
       "password": "0123",
-      "Name": "Abu Taleb",
-      "Address": "Norshingdi",
+      "Name": "আবু  তালেব",
+      "Address": "নরসিংদী ",
       "role_type": "Farmers"
     },
     {
+      "user_id": "0173",
+      "password": "0173",
+      "Name": "আব্দুর রাজ্জাক ",
+      "Address": "কাওরানবাজার, ঢাকা",
+      "role_type": "Investors"
+    },
+	{
       "user_id": "0124",
-      "password": "0123",
-      "Name": "Abu Bakkar",
-      "Address": "Norshingdi",
+      "password": "0124",
+      "Name": "আবু  বক্কর",
+      "Address": " মানিকগঞ্জ সদর ",
+      "role_type": "Farmers"
+    },
+	{
+      "user_id": "0174",
+      "password": "0174",
+      "Name": "আবুল কাশেম ",
+      "Address": "সদরঘাট, ঢাকা",
       "role_type": "Investors"
     }
   ],
