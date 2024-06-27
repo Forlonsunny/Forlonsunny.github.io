@@ -31,6 +31,12 @@
   ],
   "admin": [
     {
+      "admin_id": "01321098500",
+      "password": "01321098500",
+      "Name": "Ankon",
+      "Address": "Gajipur"
+    },
+	  {
       "admin_id": "01713819046",
       "password": "01713819046",
       "Name": "Sunny",
