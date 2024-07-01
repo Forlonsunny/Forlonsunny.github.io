@@ -1,34 +1,52 @@
 {
-  "Farmers": [
+  "user": [
     {
       "user_id": "01713819040",
-      "Name": " আবু  তালেব ",
-      "Address": " নরসিংদী ",
-	  "product_Name" : "Brinjal_Desi",
-	  "product_info" : "আজকের উত্তলনকৃত ১০০ কেজি দেশি বেগুন"
+      "password": "01713819040",
+      "Name": "আবু  তালেব",
+      "Address": "নরসিংদী ",
+      "role_type": "Farmers"
     },
-    {
-      "user_id": "01713819041",
-      "Name": " আবু  বক্কর ",
-      "Address": " মানিকগঞ্জ সদর ",
-	  "product_Name" : "Brinjal_Desi",
-	  "product_info" : "আজকের উত্তলনকৃত ২ মন দেশি বেগুন"
-    }
-  ],
-  "Investors": [
     {
       "user_id": "01713819050",
-      "Name": " আব্দুর রাজ্জাক ",
-      "Address": "কাওরানবাজার, ঢাকা ",
-	  "product_Name" : "Brinjal_Desi",
-	  "product_info" : "আজকের উত্তলনকৃত ১০০ কেজি দেশি বেগুন লাগবে"
+      "password": "01713819050",
+      "Name": "আব্দুর রাজ্জাক ",
+      "Address": "কাওরানবাজার, ঢাকা",
+      "role_type": "Investors"
+    },
+	{
+      "user_id": "01713819041",
+      "password": "01713819041",
+      "Name": "আবু  বক্কর",
+      "Address": " মানিকগঞ্জ সদর ",
+      "role_type": "Farmers"
+    },
+	{
+      "user_id": "01713819051",
+      "password": "01713819051",
+      "Name": "আবুল কাশেম ",
+      "Address": "সদরঘাট, ঢাকা",
+      "role_type": "Investors"
+    }
+  ],
+  "admin": [
+    {
+      "admin_id": "01321098500",
+      "password": "01321098500",
+      "Name": "Ankon",
+      "Address": "Gajipur"
+    },
+	  {
+      "admin_id": "01713819046",
+      "password": "01713819046",
+      "Name": "Sunny",
+      "Address": "Tangail"
     },
     {
-      "user_id": "01713819051",
-      "Name": " আবুল কাশেম ",
-      "Address": " সদরঘাট, ঢাকা  ",
-	  "product_Name" : "Brinjal_Desi",
-	  "product_info" : "আজকের উত্তলনকৃত ২ মন দেশি বেগুন লাগবে"
+      "admin_id": "112",
+      "password": "112",
+      "Name": "Shibbir",
+      "Address": "Gajipur"
     }
   ]
 }
