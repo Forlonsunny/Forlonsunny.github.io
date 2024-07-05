@@ -1,4 +1,24 @@
 {
+  "admin": [
+    {
+      "admin_id": "01321098500",
+      "password": "01321098500",
+      "Name": "Ankon",
+      "Address": "Gajipur"
+    },
+    {
+      "admin_id": "01713819046",
+      "password": "01713819046",
+      "Name": "Sunny",
+      "Address": "Tangail"
+    },
+    {
+      "admin_id": "112",
+      "password": "112",
+      "Name": "Shibbir",
+      "Address": "Gajipur"
+    }
+  ],
   "user": [
     {
       "user_id": "01713819040",
@@ -14,39 +34,19 @@
       "Address": "কাওরানবাজার, ঢাকা",
       "role_type": "Investors"
     },
-	{
+    {
       "user_id": "01713819041",
       "password": "01713819041",
       "Name": "আবু  বক্কর",
       "Address": " মানিকগঞ্জ সদর ",
       "role_type": "Farmers"
     },
-	{
+    {
       "user_id": "01713819051",
       "password": "01713819051",
       "Name": "আবুল কাশেম ",
       "Address": "সদরঘাট, ঢাকা",
       "role_type": "Investors"
-    }
-  ],
-  "admin": [
-    {
-      "admin_id": "01321098500",
-      "password": "01321098500",
-      "Name": "Ankon",
-      "Address": "Gajipur"
-    },
-	  {
-      "admin_id": "01713819046",
-      "password": "01713819046",
-      "Name": "Sunny",
-      "Address": "Tangail"
-    },
-    {
-      "admin_id": "112",
-      "password": "112",
-      "Name": "Shibbir",
-      "Address": "Gajipur"
     }
   ]
 }
