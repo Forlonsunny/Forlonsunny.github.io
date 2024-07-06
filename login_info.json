@@ -47,41 +47,6 @@
 "Name":"আবুল কাশেম ",
 "Address":"সদরঘাট, ঢাকা",
 "role_type":"Investors"
-},
-{
-"user_id":"01713",
-"password":"01713",
-"Name":"Kanon",
-"Address":"Dhaka",
-"role_type":"Farmers"
-},
-{
-"user_id":"1",
-"password":"1",
-"Name":"Lobby ",
-"Address":"gg",
-"role_type":"Investors"
-},
-{
-"user_id":"12345",
-"password":"12345",
-"Name":"Kanon",
-"Address":"Dhaka",
-"role_type":"Farmers"
-},
-{
-"user_id":"8",
-"password":"8",
-"Name":"Kanon",
-"Address":"Dhaka",
-"role_type":"Farmers"
-},
-{
-    "User": "6",
-    "password": "6",
-    "Name": "Kanon",
-    "Address": "Dhaka",
-    "role_type": "Farmers"
 }
 ]
 }
