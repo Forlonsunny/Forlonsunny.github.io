@@ -16,11 +16,19 @@
 }
 ,
 {
+"user_id":"01713",
+"Name":"Abdullah",
+"Address":"Dhaka",
+"product_Name":"বেগুন",
+"product_info":"166মন"
+}
+,
+{
     "user_id": "01713",
     "Name": "Abdullah",
     "Address": "Dhaka",
     "product_Name": "বেগুন",
-    "product_info": "166মন"
+    "product_info": "125 কেজি"
 }
 ],
 "Investors":[
