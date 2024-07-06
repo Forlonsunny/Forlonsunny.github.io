@@ -49,8 +49,15 @@
 "role_type":"Investors"
 },
 {
-    "user_id": "01713",
-    "password": "01713",
+"user_id":"01713",
+"password":"01713",
+"Name":"Kanon",
+"Address":"Dhaka",
+"role_type":"Farmers"
+},
+{
+    "user_id": "0171",
+    "password": "0171",
     "Name": "Kanon",
     "Address": "Dhaka",
     "role_type": "Farmers"
