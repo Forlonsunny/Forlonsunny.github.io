@@ -47,6 +47,13 @@
 "Name":"আবুল কাশেম ",
 "Address":"সদরঘাট, ঢাকা",
 "role_type":"Investors"
+},
+{
+    "user_id": "01713",
+    "password": "01713",
+    "Name": "Kanon",
+    "Address": "Dhaka",
+    "role_type": "Farmers"
 }
 ]
 }
