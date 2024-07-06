@@ -70,8 +70,15 @@
 "role_type":"Farmers"
 },
 {
-    "user_id": "8",
-    "password": "8",
+"user_id":"8",
+"password":"8",
+"Name":"Kanon",
+"Address":"Dhaka",
+"role_type":"Farmers"
+},
+{
+    "User": "6",
+    "password": "6",
     "Name": "Kanon",
     "Address": "Dhaka",
     "role_type": "Farmers"
