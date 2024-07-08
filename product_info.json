@@ -32,11 +32,19 @@
 }
 ,
 {
+"user_id":"01713",
+"Name":"Abdullah",
+"Address":"Dhaka",
+"product_Name":"বেগুন",
+"product_info":"1 মন"
+}
+,
+{
     "user_id": "01713",
     "Name": "Abdullah",
     "Address": "Dhaka",
     "product_Name": "বেগুন",
-    "product_info": "1 মন"
+    "product_info": "আমর আজকের উত্তলনকৃত 77 কেজি বেগুন লাগবে"
 }
 ],
 "Investors":[
