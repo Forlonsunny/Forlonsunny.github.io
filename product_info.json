@@ -40,11 +40,19 @@
 }
 ,
 {
+"user_id":"01713",
+"Name":"Abdullah",
+"Address":"Dhaka",
+"product_Name":"বেগুন",
+"product_info":"আমর আজকের উত্তলনকৃত 77 কেজি বেগুন লাগবে"
+}
+,
+{
     "user_id": "01713",
     "Name": "Abdullah",
     "Address": "Dhaka",
     "product_Name": "বেগুন",
-    "product_info": "আমর আজকের উত্তলনকৃত 77 কেজি বেগুন লাগবে"
+    "product_info": "আমর আজকের উত্তলনকৃত 0 কেজি বেগুন লাগবে"
 }
 ],
 "Investors":[
