@@ -63,10 +63,17 @@
 "role_type":"Farmers"
 },
 {
-    "user_id": "1",
-    "password": "1",
-    "Name": "Kanon",
-    "Address": "Dhaka",
+"user_id":"1",
+"password":"1",
+"Name":"Kanon",
+"Address":"Dhaka",
+"role_type":"Farmers"
+},
+{
+    "user_id": "01",
+    "password": "01",
+    "Name": "Emdad ",
+    "Address": "Tangail ",
     "role_type": "Farmers"
 }
 ]
