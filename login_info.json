@@ -70,10 +70,17 @@
 "role_type":"Farmers"
 },
 {
-    "user_id": "01",
-    "password": "01",
-    "Name": "Emdad ",
-    "Address": "Tangail ",
+"user_id":"01",
+"password":"01",
+"Name":"Emdad ",
+"Address":"Tangail ",
+"role_type":"Farmers"
+},
+{
+    "user_id": "01713819049",
+    "password": "122",
+    "Name": "ABDUL MOMEN ",
+    "Address": "Sherpur",
     "role_type": "Farmers"
 }
 ]
