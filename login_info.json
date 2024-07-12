@@ -77,10 +77,17 @@
 "role_type":"Farmers"
 },
 {
-    "user_id": "01713819049",
-    "password": "122",
-    "Name": "ABDUL MOMEN ",
-    "Address": "Sherpur",
+"user_id":"01713819049",
+"password":"122",
+"Name":"ABDUL MOMEN ",
+"Address":"Sherpur",
+"role_type":"Farmers"
+},
+{
+    "user_id": "0155181513",
+    "password": "123",
+    "Name": "Helal",
+    "Address": "Dhaka",
     "role_type": "Farmers"
 }
 ]
