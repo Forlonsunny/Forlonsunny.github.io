@@ -47,62 +47,6 @@
 "Name":"আবুল কাশেম ",
 "Address":"সদরঘাট, ঢাকা",
 "role_type":"Investors"
-},
-{
-"user_id":"01713",
-"password":"01713",
-"Name":"Kanon",
-"Address":"Dhaka",
-"role_type":"Farmers"
-},
-{
-"user_id":"0171",
-"password":"0171",
-"Name":"Kanon",
-"Address":"Dhaka",
-"role_type":"Farmers"
-},
-{
-"user_id":"1",
-"password":"1",
-"Name":"Kanon",
-"Address":"Dhaka",
-"role_type":"Farmers"
-},
-{
-"user_id":"01",
-"password":"01",
-"Name":"Emdad ",
-"Address":"Tangail ",
-"role_type":"Farmers"
-},
-{
-"user_id":"01713819049",
-"password":"122",
-"Name":"ABDUL MOMEN ",
-"Address":"Sherpur",
-"role_type":"Farmers"
-},
-{
-"user_id":"0155181513",
-"password":"123",
-"Name":"Helal",
-"Address":"Dhaka",
-"role_type":"Farmers"
-},
-{
-"user_id":"1231",
-"password":"1231",
-"Name":"AB",
-"Address":"dhaka",
-"role_type":"Farmers"
-},
-{
-    "user_id": "1232",
-    "password": "1232",
-    "Name": "Aj",
-    "Address": "Gala",
-    "role_type": "Farmers"
 }
 ]
 }
