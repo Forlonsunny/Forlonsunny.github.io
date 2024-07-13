@@ -32,11 +32,19 @@
 }
 ,
 {
-    "user_id": "1",
-    "Name": "Kanon",
-    "Address": "Dhaka",
+"user_id":"1",
+"Name":"Kanon",
+"Address":"Dhaka",
+"product_Name":"বেগুন",
+"product_info":"আমর আছে আজকের উত্তলনকৃত  কেজি বেগুন আছে"
+}
+,
+{
+    "user_id": "0155181612",
+    "Name": "Halim ",
+    "Address": "sadarghat",
     "product_Name": "বেগুন",
-    "product_info": "আমর আছে আজকের উত্তলনকৃত  কেজি বেগুন আছে"
+    "product_info": "আমর আছে আজকের উত্তলনকৃত 20 মন বেগুন আছে"
 }
 ],
 "Investors":[
