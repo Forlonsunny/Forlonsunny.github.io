@@ -26,12 +26,21 @@
 }
 ,
 {
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"দেশি ঢেঁড়শ",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 5 মন দেশি ঢেঁড়শ আছে",
+"product_id":"103"
+}
+,
+{
     "user_id": "0155181612",
     "Name": "Halim ",
     "Address": "sadarghat",
-    "product_Name": "দেশি ঢেঁড়শ",
-    "product_info": "আমর আছে আজকের উত্তলনকৃত 5 মন দেশি ঢেঁড়শ আছে",
-    "product_id": "103"
+    "product_Name": "দেশি টমেটো",
+    "product_info": "আমর আছে আজকের উত্তলনকৃত 2 কেজি দেশি টমেটো আছে",
+    "product_id": "104"
 }
 ],
 "Investors":[
