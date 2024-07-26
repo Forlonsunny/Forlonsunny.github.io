@@ -40,11 +40,11 @@
 }
 ,
 {
-    "user_id": "0155181612",
-    "Name": "Halim ",
-    "Address": "sadarghat",
-    "product_Name": "বেগুন",
-    "product_info": "আমর আছে আজকের উত্তলনকৃত 20 মন বেগুন আছে"
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"বেগুন",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 20 মন বেগুন আছে"
 }
 ],
 "Investors":[
@@ -89,6 +89,13 @@
 "Address":"সদরঘাট, ঢাকা",
 "product_Name":"বেগুন",
 "product_info":"আমর আজকের উত্তলনকৃত 11111 কেজি বেগুন লাগবে"
+},
+{
+    "user_id": "01713819051",
+    "Name": "আবুল কাশেম ",
+    "Address": "সদরঘাট, ঢাকা",
+    "product_Name": "দেশি করলা",
+    "product_info": "আজকের উত্তলনকৃত20 মন দেশি করলা লাগবে"
 }
 ]
 }
