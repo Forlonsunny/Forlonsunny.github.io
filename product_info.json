@@ -24,6 +24,15 @@
 "product_info":"আমর আছে আজকের উত্তলনকৃত 20 মন দেশি ঢেঁড়শ আছে",
 "product_id":"103"
 }
+,
+{
+    "user_id": "0155181612",
+    "Name": "Halim ",
+    "Address": "sadarghat",
+    "product_Name": "দেশি ঢেঁড়শ",
+    "product_info": "আমর আছে আজকের উত্তলনকৃত 5 মন দেশি ঢেঁড়শ আছে",
+    "product_id": "103"
+}
 ],
 "Investors":[
 {
@@ -51,12 +60,12 @@
 "product_id":"103"
 },
 {
-    "user_id": "01713819051",
-    "Name": "আবুল কাশেম ",
-    "Address": "সদরঘাট, ঢাকা",
-    "product_Name": "দেশি করলা",
-    "product_info": "আমর আজকের উত্তলনকৃত new 80000 কেজি দেশি করলা লাগবে",
-    "product_id": "102"
+"user_id":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"product_Name":"দেশি করলা",
+"product_info":"আমর আজকের উত্তলনকৃত new 80000 কেজি দেশি করলা লাগবে",
+"product_id":"102"
 }
 ]
 }
