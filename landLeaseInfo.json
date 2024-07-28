@@ -21,10 +21,17 @@
 "landOwnerMobileNumber":"0155181612"
 },
 {
-    "landAmountInfo": "12 Ekor Uchu Jomi",
-    "landAmountPriceInfo": "5552 Taka",
-    "landLocation": "dhamrai",
-    "landOwnerName": "Halim ",
-    "landOwnerMobileNumber": "0155181612"
+"landAmountInfo":"12 Ekor Uchu Jomi",
+"landAmountPriceInfo":"5552 Taka",
+"landLocation":"dhamrai",
+"landOwnerName":"Halim ",
+"landOwnerMobileNumber":"0155181612"
+},
+{
+    "landAmountInfo": "1000 Shoraksho Nichu Jomi",
+    "landAmountPriceInfo": "8000 Taka",
+    "landLocation": "Tangail",
+    "landOwnerName": "আবুল কাশেম ",
+    "landOwnerMobileNumber": "01713819051"
 }
 ]
