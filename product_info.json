@@ -44,12 +44,12 @@
 }
 ,
 {
-    "user_id": "0155181612",
-    "Name": "Halim ",
-    "Address": "sadarghat",
-    "product_Name": "দেশি টমেটো",
-    "product_info": "আমর আছে আজকের উত্তলনকৃত 856 মন দেশি টমেটো আছে",
-    "product_id": "104"
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"দেশি টমেটো",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 856 মন দেশি টমেটো আছে",
+"product_id":"104"
 }
 ],
 "Buyers":[
@@ -92,6 +92,14 @@
 "product_Name":"দেশি টমেটো",
 "product_info":"আমর আজকের উত্তলনকৃত 55 মন দেশি টমেটো লাগবে",
 "product_id":"104"
+},
+{
+    "user_id": "01713819051",
+    "Name": "আবুল কাশেম ",
+    "Address": "সদরঘাট, ঢাকা",
+    "product_Name": "দেশি কাঁচা মরিচ",
+    "product_info": "আমর আজকের উত্তলনকৃত Fresh 2 মন দেশি কাঁচা মরিচ লাগবে",
+    "product_id": "105"
 }
 ]
 }
