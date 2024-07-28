@@ -49,7 +49,9 @@
 "Address":"sadarghat",
 "product_Name":"দেশি টমেটো",
 "product_info":"আমর আছে আজকের উত্তলনকৃত 856 মন দেশি টমেটো আছে",
-"product_id":"104",
+"product_id":"104"
+}
+,
 {
     "user_id": "0155181612",
     "Name": "Halim ",
@@ -57,8 +59,6 @@
     "product_Name": "দেশি কাঁচা মরিচ",
     "product_info": "আমর আছে আজকের উত্তলনকৃত Fresh 28 মন দেশি কাঁচা মরিচ আছে",
     "product_id": "105"
-}
-
 }
 ],
 "Buyers":[
