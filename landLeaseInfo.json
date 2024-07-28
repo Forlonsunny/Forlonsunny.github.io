@@ -1,23 +1,30 @@
 [
-    {
-        "landAmountInfo":"১০০ একর সমতল জমি",
-        "landAmountPriceInfo":"10,000 Taka",
-        "landLocation":"নরসিংদী, রায়পুরা",
-        "landOwnerName":"মোহাম্মদ আশরাফুল আলম ",
-        "landOwnerMobileNumber":"01983726288"
-    },
-    {
-        "landAmountInfo":"55 High Land",
-        "landAmountPriceInfo":"5555",
-        "landLocation":"AaramNogor",
-        "landOwnerName":"Halim ",
-        "landOwnerMobileNumber":"0155181612"
-    },
-    {
-        "landAmountInfo":"15 Ekor High Land",
-        "landAmountPriceInfo":"5000",
-        "landLocation":"Dhaka",
-        "landOwnerName":"Halim ",
-        "landOwnerMobileNumber":"0155181612"
-    }
+{
+"landAmountInfo":"১০০ একর সমতল জমি",
+"landAmountPriceInfo":"10,000 Taka",
+"landLocation":"নরসিংদী, রায়পুরা",
+"landOwnerName":"মোহাম্মদ আশরাফুল আলম ",
+"landOwnerMobileNumber":"01983726288"
+},
+{
+"landAmountInfo":"55 High Land",
+"landAmountPriceInfo":"5555",
+"landLocation":"AaramNogor",
+"landOwnerName":"Halim ",
+"landOwnerMobileNumber":"0155181612"
+},
+{
+"landAmountInfo":"15 Ekor High Land",
+"landAmountPriceInfo":"5000",
+"landLocation":"Dhaka",
+"landOwnerName":"Halim ",
+"landOwnerMobileNumber":"0155181612"
+},
+{
+    "landAmountInfo": "12 Ekor Uchu Jomi",
+    "landAmountPriceInfo": "5552 Taka",
+    "landLocation": "dhamrai",
+    "landOwnerName": "Halim ",
+    "landOwnerMobileNumber": "0155181612"
+}
 ]
