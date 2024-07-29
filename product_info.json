@@ -53,11 +53,20 @@
 }
 ,
 {
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"দেশি কাঁচা মরিচ",
+"product_info":"আমর আছে আজকের উত্তলনকৃত Fresh 28 মন দেশি কাঁচা মরিচ আছে",
+"product_id":"105"
+}
+,
+{
     "user_id": "0155181612",
     "Name": "Halim ",
     "Address": "sadarghat",
     "product_Name": "দেশি কাঁচা মরিচ",
-    "product_info": "আমর আছে আজকের উত্তলনকৃত Fresh 28 মন দেশি কাঁচা মরিচ আছে",
+    "product_info": "আমর আছে আজকের উত্তলনকৃত 22 22 মন দেশি কাঁচা মরিচ আছে",
     "product_id": "105"
 }
 ],
