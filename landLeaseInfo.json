@@ -35,9 +35,16 @@
 "landOwnerMobileNumber":"01713819051"
 },
 {
-    "landAmountInfo": "88 Ekor  Uchchu Jomi",
-    "landAmountPriceInfo": "23344 Taka",
-    "landLocation": "Nolua",
+"landAmountInfo":"88 Ekor  Uchchu Jomi",
+"landAmountPriceInfo":"23344 Taka",
+"landLocation":"Nolua",
+"landOwnerName":"আবুল কাশেম ",
+"landOwnerMobileNumber":"01713819051"
+},
+{
+    "landAmountInfo": "120 Shotankhso Nichu Jomi",
+    "landAmountPriceInfo": "1200 Taka",
+    "landLocation": "Delduar",
     "landOwnerName": "আবুল কাশেম ",
     "landOwnerMobileNumber": "01713819051"
 }
