@@ -42,10 +42,17 @@
 "landOwnerMobileNumber":"01713819051"
 },
 {
-    "landAmountInfo": "120 Shotankhso Nichu Jomi",
-    "landAmountPriceInfo": "1200 Taka",
-    "landLocation": "Delduar",
-    "landOwnerName": "আবুল কাশেম ",
-    "landOwnerMobileNumber": "01713819051"
+"landAmountInfo":"120 Shotankhso Nichu Jomi",
+"landAmountPriceInfo":"1200 Taka",
+"landLocation":"Delduar",
+"landOwnerName":"আবুল কাশেম ",
+"landOwnerMobileNumber":"01713819051"
+},
+{
+    "landAmountInfo": "12.000 sho nichu",
+    "landAmountPriceInfo": "1555 Taka",
+    "landLocation": "Dhaka ",
+    "landOwnerName": "Halim ",
+    "landOwnerMobileNumber": "0155181612"
 }
 ]
