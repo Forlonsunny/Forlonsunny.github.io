@@ -80,12 +80,12 @@
 }
 ,
 {
-    "user_id": "0155181612",
-    "Name": "Halim ",
-    "Address": "sadarghat",
-    "product_Name": "Local Tomatoes ",
-    "product_info": "আমর আছে আজকের উত্তলনকৃত 88 মন Local Tomatoes  আছে",
-    "product_id": "106"
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"Local Tomatoes ",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 88 মন Local Tomatoes  আছে",
+"product_id":"106"
 }
 ],
 "Buyers":[
@@ -144,6 +144,14 @@
 "product_Name":"দেশি কাঁচা মরিচ",
 "product_info":"আমর আজকের উত্তলনকৃত 222 মন দেশি কাঁচা মরিচ লাগবে",
 "product_id":"105"
+},
+{
+    "user_id": "01713819051",
+    "Name": "আবুল কাশেম ",
+    "Address": "সদরঘাট, ঢাকা",
+    "product_Name": "Local Tomatoes ",
+    "product_info": "আমর আজকের উত্তলনকৃত 555 মন Local Tomatoes  লাগবে",
+    "product_id": "106"
 }
 ]
 }
