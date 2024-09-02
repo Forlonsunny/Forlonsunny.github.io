@@ -366,6 +366,10 @@
 .purple {
 	color: #837c9a;
 }
+.highlite {
+	color: #5aecaf;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
 
 .block {
 	margin: 25px 30px;
@@ -475,16 +479,15 @@ blockquote {
 	border-left: 2px solid #48DA9B;
 }
 	
-blockquote, p , a, li {
+blockquote, p , li {
 	font-family: 'Lato', Helvetica, sans-serif;
 	font-weight: 300;
 	font-size: 15px;
 	color: #1668b4;
 }
-
-a:focus { 
+ a:focus { 
     outline: none;
-}
+	}
 
 ul {
     list-style: none;
