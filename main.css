@@ -122,7 +122,7 @@
     color: #fff!important;
     background-color: #040530  !important
 }
-.w3-container:after,.w3-container:before,{
+.w3-container:after,.w3-container:before{
     content: "";
     display: table;
     clear: both;
@@ -785,3 +785,17 @@ ul {
 		float: left;
 		padding-left: 40px;
 	}
+	.mycontainer_with_horizontal_fotter {
+		display: flex;
+	  }
+	  .mycontainer_with_horizontal_fotter > div {
+		width:33%;
+	  }
+	  @media screen and (min-width: 20em) {
+
+		mycontainer_with_horizontal_fotter
+		{
+		  width: 20%;
+		}
+	  
+	  }
