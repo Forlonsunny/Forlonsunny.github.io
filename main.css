@@ -372,7 +372,13 @@
 }
 .footerP {
 	color: #ffffff;
-	font-family: 'Times New Roman', Times, serif
+	text-align: justify;
+	font-family: 'Times New Roman', Times, serif;
+}
+.footerForP {
+	color: #ffffff;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
 }
 .footera,.footerli {
 	color: #ffffff;
