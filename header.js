@@ -4,8 +4,8 @@ document.write(`
 					Hasan</span></sub></a>
 		<div class="header-right">
 			<a class="active" href="https://promahadihasan.github.io/">Home</a>
-			<a href="https://promahadihasan.github.io/contact-1/">Contact</a>
-			<a href="https://promahadihasan.github.io/about-1/">About</a>
+			<a href="https://promahadihasan.github.io/profile/">About-me</a>
+			<a href="#contract">Contact</a>
 		</div>
 		<div class="tp">
 			<a href="https://github.com/promahadihasan" target="_blank">
