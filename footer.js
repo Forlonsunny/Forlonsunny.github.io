@@ -66,13 +66,9 @@ document.write(`
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68">
 											<a href="https://promahadihasan.github.io/blog">Blog Post</a>
 										</li>
-										<li class="footerli" id="menu-item-69"
-											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69">
-											<a href="https://promahadihasan.github.io/contact-1/">Contact</a>
-										</li>
 										<li class="footerli"  id="menu-item-70"
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70">
-											<a href="https://promahadihasan.github.io/about-1/">About Us</a>
+											<a href="https://promahadihasan.github.io/profile/">About me</a>
 										</li>
 										<li class="footerli"  id="menu-item-7001"
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7001">
