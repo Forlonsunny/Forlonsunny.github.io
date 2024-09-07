@@ -88,11 +88,11 @@ document.write(`
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-4 col-xs-12">
+						<div id="contract">
 							<div id="rdtheme_info-2" class="widget widget_rdtheme_info">
 								<h3 class="widgettitle">Contact info:</h3>
 								<ul>
-									<li class="footerli" >Akur Takur Para, Tangail Sadar, Tangail, Bangladesh</li>
+									<li class="footerli" > Akur Takur Para, Tangail Sadar, Tangail, Bangladesh</li>
 									<li class="footerli" >
 										<a href="tel:+">+8801713819046</a>
 									</li>
@@ -111,7 +111,7 @@ document.write(`
 					<div class="row">
 						<div class="col-sm-12 col-xs-12 text-center">
 							<br>
-							<p><span class="footerP">© Copyright Apps Developer Mahadi Hasan 2024. Designed and Developed by Mahadi
+							<p align="center"><span class="footerForP">© Copyright Apps Developer Mahadi Hasan 2024. Designed and Developed by Mahadi
 							Hasan.</span></p>
 						</div>
 					</div>
@@ -120,4 +120,26 @@ document.write(`
 		</div>
 	</div>
 </footer>
+<button onclick="topFunction()" id="myBtn" title="Go to top">^</button>
+<script>
+// Get the button
+let mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
 `);
