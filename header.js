@@ -1,4 +1,4 @@
-vdocument.write(`
+document.write(`
 <div class="header">
 		<a href="https://promahadihasan.github.io/" class="logo">Simplify Coding<sub><span style="font-size:0.5em"> by Mahadi
 					Hasan</span></sub></a>
